@@ -5,7 +5,7 @@ source 'https://ruby.taobao.org'
 gem 'rails', '4.2.1'
 
 gem 'bootstrap-sass'
-
+gem 'bcrypt'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
