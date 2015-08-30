@@ -5,7 +5,11 @@ source 'https://ruby.taobao.org'
 gem 'rails', '4.2.1'
 
 gem 'bootstrap-sass'
-gem 'bcrypt'
+gem 'bcrypt', '3.1.7'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
